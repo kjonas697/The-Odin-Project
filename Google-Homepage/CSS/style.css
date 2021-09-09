@@ -1,11 +1,61 @@
-body {
-    background-color: aliceblue;
-}
+
 h1 {
     padding: 10px;
-    border-bottom: ;
     border-color: black;
 }
-img {
-    align-items: flex-end; 
+.center {
+   display: block;
+   margin-top: 250px;
+   margin-left: auto;
+   margin-right: auto;
+}
+img{
+    width: 250px;
+}
+.search-bar {
+    width: 500px;
+    height: 40px;
+    border: 1px solid #d3d3d3;
+    border-radius: 25px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.search-bar >.text {
+    color: #d3d3d3;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.search-icon {
+    width: 4.5%;
+}
+.app-icon {
+    width: 100%;
+    margin-top: 0px;
+}
+.account-icon {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #d3d3d3;
+    border-radius: 30px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.block-1 {
+    margin-left: 10px;
+    display: inline-block;
+}
+.block-2 {
+    margin-top: 5px;
+    margin-right: 10px;
+    float: right;
+}
+.search-options {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    text-align: center;
+    display: inline-block;
 }
