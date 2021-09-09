@@ -6,3 +6,6 @@ h1 {
     border-bottom: ;
     border-color: black;
 }
+img {
+    align-items: flex-end; 
+}
