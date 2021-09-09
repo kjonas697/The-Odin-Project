@@ -1,0 +1,2 @@
+The goal of this project is to re create the look of the google homepage, but not its function. 
+Completing this project will show a basic understanding of html elements and how to style them with CSS.
